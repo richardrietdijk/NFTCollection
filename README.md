@@ -1,1 +1,4 @@
 # NFTCollection
+
+Whitelist Contract deployed @ 0x7d4e96C04268DDF0232a47Cf1981A7283C516150
+NFT Smart Contract deployed @ 0x7EB01c1a45C9857E6E9b2913D03F9a281Ea6aFBb
